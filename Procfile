@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/helloworld
+play run --http.port=$PORT $PLAY_OPTS
